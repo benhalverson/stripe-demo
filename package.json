@@ -4,7 +4,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@hono/node-server": "^1.9.0",
+    "@hono/node-server": "^1.10.1",
     "dotenv": "^16.4.5",
     "hono": "^4.1.7",
     "stripe": "^14.23.0"
